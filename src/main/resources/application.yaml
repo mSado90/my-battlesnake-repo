@@ -1,7 +1,7 @@
 battlesnake:
   config:
     "apiversion": "1"
-    "author": "mmsonline"
+    "author": "msadecki"
     "color" : "#888888"
     "head" : "default"
     "tail" : "default"
